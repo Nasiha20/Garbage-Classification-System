@@ -7,4 +7,6 @@ Demo video available that explains the working of the application.
 Python Libraries Used:
 - Numpy
 - Keras
-
+- Tensorflow
+- OS
+- Graph
