@@ -10,3 +10,6 @@ Python Libraries Used:
 - Tensorflow
 - OS
 - Graph
+- Flask
+- Gevent
+- Werkzeug
