@@ -1,7 +1,10 @@
 # Garbage-Classification-System
 
-CNN model to clasify trash into different categories. 
+A CNN model to clasify images of trash into different categories. For enhanced end user experience, a Flask application is built.
 
-Flask app for end user.
+Demo video available that explains the working of the application.
 
-Demo video available
+Python Libraries Used:
+- Numpy
+- Keras
+
